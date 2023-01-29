@@ -1,0 +1,6 @@
+20230129	12:07:23	79461a91-b3c7-4a81-9f9b-64542425b994	GET	undefined	/index.html
+20230129	12:07:23	e3c90c06-5fbe-45fc-b985-625db1fb126d	GET	undefined	/css/style.css
+20230129	12:20:41	ed78e2dd-0650-4393-a795-0d0210f824e3	GET	undefined	/index
+20230129	12:20:41	2de1af26-2a55-48d0-8503-56cf2ae0c2ff	GET	undefined	/css/style.css
+20230129	12:44:38	746e2852-bf57-4b8d-903a-e95d8d399093	OPTIONS	https://www.google.com	/
+20230129	12:44:38	2a65d28e-6e15-481b-aea1-2b1b55222e56	GET	https://www.google.com	/
